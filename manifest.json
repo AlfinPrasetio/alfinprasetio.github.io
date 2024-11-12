@@ -1,0 +1,43 @@
+{
+    "name": "Alfin Prasetio Portfolio",
+    "short_name": "Alfin",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#F96D00",
+    "description": "Portfolio of Alfin Prasetio, a Graphic Designer and Developer.",
+    "orientation": "portrait",
+    "gcm_sender_id": "522876970976",
+    "icons": [
+      {
+        "src": "/images/icon-pwa-144x144.png",
+        "sizes": "144x144",
+        "type": "image/png"
+      },
+      {
+        "src": "/images/icon-pwa-192x192.png",
+        "sizes": "192x192",
+        "type": "images/png"
+      },
+      {
+        "src": "/images/maskable.png",
+        "sizes": "512x512",
+        "type": "images/png",
+        "purpose": "maskable"
+      }
+    ],
+    "screenshots": [
+      {
+        "src": "/images/ss2.png",
+        "sizes": "842x529",
+        "type":"image/png"
+      },
+      {
+        "src": "/images/screenshot.png",
+        "sizes": "640x320",
+        "type":"image/png",
+        "form_factor": "wide",
+        "label": "portfolio"
+      }
+    ]
+  }
