@@ -20,6 +20,11 @@
         "type": "images/png"
       },
       {
+        "src": "/images/icon-pwa-512x512.png",
+        "sizes": "512x512",
+        "type": "images/png"
+      },
+      {
         "src": "/images/maskable.png",
         "sizes": "512x512",
         "type": "images/png",
