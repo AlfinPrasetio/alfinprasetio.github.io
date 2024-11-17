@@ -12,6 +12,7 @@ const assets = [
   "/images/partner-5.png",
   "/images/icon-pwa-192x192.png",
   "/images/icon-pwa-144x144.png",
+  "/images/icon-pwa-512x512.png",
   "/images/maskable.png",
   "/images/profil.jpeg",
   "/images/about.jpg",
